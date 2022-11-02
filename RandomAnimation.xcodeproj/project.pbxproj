@@ -349,6 +349,7 @@
 				DEVELOPMENT_TEAM = Z69HT693PK;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = RandomAnimation/App/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = AnimateMe;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -380,6 +381,7 @@
 				DEVELOPMENT_TEAM = Z69HT693PK;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = RandomAnimation/App/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = AnimateMe;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
