@@ -13,4 +13,6 @@ class DataStore {
     let animations = AnimationPreset.allCases.map { $0.rawValue }
     
     let curves = AnimationCurve.allCases.map { $0.rawValue }
+    
+    private init() {}
 }
